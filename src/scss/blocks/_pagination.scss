@@ -1,0 +1,23 @@
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.pagination p {
+    color: #888;
+}
+
+.page-numbers a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: #555;
+}
+
+.page-numbers a:hover {
+    text-decoration: underline;
+}
+
+.page-numbers span {
+    margin: 0 5px;
+}

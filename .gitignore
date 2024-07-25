@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Build directory
+build/
+
+# Docs build directory (if it’s generated)
+docs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compiled CSS and map files
+src/scss/*.css
+src/scss/*.css.map
+
+# Zipped files
+*.zip
+
+# Gulp specific files
+gulp-html-scss-js webcademy.ru.zip
